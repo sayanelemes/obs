@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: gyzah-z9nca
+created: 2026-11-25T14:46:51+05:00
